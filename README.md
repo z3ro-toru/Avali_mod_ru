@@ -1,10 +1,9 @@
-# Avali
-Avali mod with community additions
+# Avali Triage Race mod for Starbound (руссификация)
+Мод от сообщества, версия 1.10
+Пожалуйста, сообщайте о некорректном переводе сюда. О прочих багах и ошибках - желательно в оригинальный репозиторий.
 
-Please report issues promptly, using the Issues button at the top of the page. 
-
-# Installation instructions
-Download the most recent release's ZIP file from  https://github.com/Avali-Triage-Team/Avali/archive/Triage.zip and extract into Starbound/mods. Your folders should look like this: 
+# Как установить
+Скачайте версию отсюда (заменить) https://github.com/Avali-Triage-Team/Avali/archive/Triage.zip и извлеките по пути Starbound/mods. Папки будут выглядеть примерно так: 
 
 >mods
 
@@ -12,11 +11,11 @@ Download the most recent release's ZIP file from  https://github.com/Avali-Triag
 
 >>>avali.modinfo 
 
->>>various folders and files 
+>>>различные папки и файлы
 
-# Always remember to delete the previous version before installing any new one!
+# Не забывайте удалять старую версию перед установко новой, это может крашнуть вашу игру!
 
-# Making a feature suggestion
+# Предложение фич
 If you have the know-how to code everything yourself, feel free to make a Fork, make your changes, then make a Pull Request. Chances are I'll take a glance over what you added then just plop it in.
 Please test your additions before you make the pull request.
 
