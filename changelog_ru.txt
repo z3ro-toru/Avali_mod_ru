@@ -1,0 +1,6 @@
+Race Avali Triage mod 1.10 (перевод и дополнения zero_toru)
+
+19 февраля 2023
+- Переведено содержимое папок tiles\materials; codex; radiomessages
+- Начат перевод содержимого папки dialog (переведены: arrivedhome.config , combat.config; перевод converse.config в процессе)
+- Переведён файл описания мода _metadata
