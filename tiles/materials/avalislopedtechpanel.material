@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopedtechpanel",
 
-  "description" : "Tech panels, with clopes, so your wires can run every which way!",
-  "shortdescription" : "Sloped Tech Panel",
+  "description" : "Технологические панели с откосами, чтобы ваши провода могли проходить в любую сторону!",
+  "shortdescription" : "Наклонная техническая панель",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

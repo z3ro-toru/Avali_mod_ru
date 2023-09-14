@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopedinsetpaneldull",
 
-  "description" : "Excitingly dull inset panels! They don't hold much color.",
-  "shortdescription" : "Dull Sloped Inset Panel",
+  "description" : "Волнующе скучные вставные панели! Они не очень хорошо сохраняют цвет.",
+  "shortdescription" : "Глухая наклонная врезная панель",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

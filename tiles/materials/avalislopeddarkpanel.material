@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopeddarkpanel",
 
-  "description" : "Dark panels, with slopes!",
-  "shortdescription" : "Sloped Dark Panel",
+  "description" : "Тёмные панели, но с наклоном!",
+  "shortdescription" : "Наклонённая тёмная панель",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

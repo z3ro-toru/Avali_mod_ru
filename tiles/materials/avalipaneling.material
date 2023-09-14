@@ -3,8 +3,8 @@
   "materialName" : "avalipaneling",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avalipaneling",
-  "description" : "Light and airy panels.",
-  "shortdescription" : "Horizontal Panels",
+  "description" : "Легкие и воздушные панели.",
+  "shortdescription" : "Горизонтальные панели",
 
 
   "footstepSound" : "/sfx/blocks/footstep_sand.ogg",

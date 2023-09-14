@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopedinsetpanel",
 
-  "description" : "Bright inset panels with slopes. Boring description is boring",
-  "shortdescription" : "Sloped Inset Panel",
+  "description" : "Яркие вставные панели с откосами. Скучное описание - это скучно.",
+  "shortdescription" : "Наклонная врезная панель",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

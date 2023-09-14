@@ -3,8 +3,8 @@
   "materialName" : "avaliplain",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avaliplain",
-  "description" : "Plain paneling, because sometimes less is more.",
-  "shortdescription" : "Plain Panel",
+  "description" : "Обычная панельная обшивка, потому что иногда меньше значит больше.",
+  "shortdescription" : "Гладкая панель",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

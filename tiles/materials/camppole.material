@@ -3,8 +3,8 @@
   "materialName" : "camppole",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "camppole",
-  "description" : "A literal stick in the mud.",
-  "shortdescription" : "Tent Pole",
+  "description" : "Буквально палка в грязи.",
+  "shortdescription" : "Шест для палатки",
 
 
   "footstepSound" : "/sfx/blocks/footstep_sand.ogg",

@@ -5,107 +5,114 @@
       "path": "/converse/avali",
       "value": {
         "default": [
-          "Hello.",
-          "Hi. I'm <selfname>. Who're you?",
-          "Like it around?",
-          "You came this far to visit our settlement?",
-          "*hums to self*"
+          "Здорово.",
+          "Привет. Я <selfname>. А как тебя зовут?",
+          "Нравится всё вокруг?",
+          "Вы настолько далеко зашли, чтобы посетить наше поселение?",
+          "*что-то напевает себе под нос*"
         ],
         "apex": [
-          "Hello, Apex.",
-          "How goes the rebellion?",
-          "Are you a Miniknog spy?",
-          "What's a banana?",
-          "Is it true Apex actually clone their dead?",
+          "Привет, Апекс.",
+          "Как проходит восстание",
+          "Ты часом не шпион Миниконга?",
+          "Что такое "банана"?",
+          "Это правда, что Апексы клонируют своих мертвецов?",
           "That's a lot of fur, are you from a non-CHZ world too?",
-          "A shame the Miniknog censor the media, you'd make good use of a Nexus system.",
-          "(Whispers) I know it was you guys. Hash-tag ApexAvalonTruth!"
+          "Жаль, что Миникног подвергает цензуре СМИ, вы бы хорошо использовали систему Nexus.",
+          "(Шёпотом) Я знаю, что это были вы, ребята. Хэштэг АпексАвалонИстина!"
         ],
         "avian": [
-          "Hello, Avian.",
-          "If you speak to a geneticist we could give you wings too, you know.",
-          "Are you grounded, or... the other ones?",
-          "How come your feathers are so much less interesting than ours?",
-          "How do you tell your males and females apart? You have the same markings.",
-          "Do you have any good songs to share from Avos?",
-          "Want to trade crest feathers as a souvenir?",
-          "Religion? No, the Oracle isn't our god..."
+          "Привет, Авианин.",
+          "Знаешь, если ты переговоришь с нашим генетиком, мы могли бы тоже дать тебе крылья...",
+          "Вы были опущены? Или... что-то другое?(Шутка в переводе "grounded" Are you grounded, or... the other ones?)",
+          "Почему ваши перья настолько малоинтересны, в отличии от наших?",
+          "Как вы отличаете пола у себя? У вас абсолютно одинаковые отметины.",
+          "Есть ли у вас какие-нибудь хорошие песни с Авоса, которыми вы могли бы поделиться?",
+          "Хотите, поменяемся? Я вам перья с головы, а вы мне сувенир.",
+          "Религия? Нет, ОРАКУЛ - не наш бог."
         ],
         "floran": [
-          "Hello, Floran.",
-          "...Er, just to remind you, we're inedible.",
-          "What do you mean, we smell like Miracle-Gro?",
-          "No, that's not for stabbi- WHOA, ok, apparently it can also be used for stabbing. Learn something new every day.",
-          "Want to join us on a hunt later? We heard Florans are amazing hunters.",
-          "Why do Florans need to hunt for meat if you can photosynthesise?",
-          "Mind explaining to me what 'drysap' is?"
+          "Здорово, Флоран.",
+          "Ээээм... Просто хочу напомнить вам, что мы несъедобны.",
+          "Что ты имел в виду, когда сказал, что мы пахнем как удобрения?",
+          "Нет, это не для нанесения ударов ножом - ОГО, ладно, очевидно, его также можно использовать для нанесения ударов ножом. Знаешь больше каждый день.",
+          "Хочешь присоединиться к нам на охоте позже? Мы слышали, что флоране - удивительные охотники.",
+          "Зачем флоранам охотиться ради мяса, если вы можете заниматься фотосинтезом?",
+          "Не могли бы вы объяснить мне, что такое "сухосок"?"
         ],
         "human": [
-          "Hello... oh, a human.",
-          "I thought something smelled bad.",
-          "I understand, it wasn't your fault. But some of my kin might not be so understanding.",
-          "(Whispers) Between you and me, I think it was the Apex. Don't tell anyone else I said that though.",
-          "You have Durasteel gonads coming here, human.",
-          "So, are you still into bombarding fledgling races on first contact?",
-          "What's the weather like on Earth lately, violent with a chance of tentacles?",
-          "So much for the Protectorate.",
-          "And to think there was talk about us joining the Protectorate. Good thing that fell through.",
-          "Now where'd I put my tiny violin...",
-          "No, you cannot have a hug. Buzz off.",
-          "We're watching you, scum.",
-          "I'm not sure what's worse: humans trying to kill us, or humans trying to lewd us."
+          "Привет... о, человек.",
+          "Должно быть, мне показалось. что я почувствовал что-то скверно пахнущее.",
+          "Я понимаю, это была не ваша вина. Но некоторые из моих сородичей могут оказаться не такими понимающими.",
+          "(Шёпотом) Между нами говоря, я думаю, что это были Апексы. Только никому больше не говори, что я рассказал тебе.",
+          "А у тебя железные... если ты сюда пришёл, человек.",
+          "Итак, вы все еще любите бомбить неоперившиеся расы при первом контакте?",
+          "Какая погода на Земле в последнее время, буйная, с вероятностью появления щупалец?",
+          "Слишком много для Протектората.",
+          "И подумать только, ходили разговоры о том, что мы присоединились к протекторату. Хорошо, что это сорвалось.",
+          "Так, а куда же я дел мою крошечную скрипку...",
+          "Нет, ты не можешь обниматься. Отвали.",
+          "Мы наблюдаем за тобой, подонок.",
+          "Я не уверен, что хуже: люди, пытающиеся убить нас, или люди, пытающиеся развратить нас."
+          "Ты хоть понимаешь, каково ощущать то, что тобой манипулируют подобные тебе?"
         ],
         "ningen": [
-          "Hello... oh, a human.",
-          "I thought something smelled bad.",
-          "I understand, it wasn't your fault. But some of my kin might not be so understanding.",
-          "(Whispers) Between you and me, I think it was the Apex. Don't tell anyone else I said that though.",
-          "You have Durasteel gonads coming here, human.",
-          "So, are you still into bombarding fledgling races on first contact?",
-          "What's the weather like on Earth lately, violent with a chance of tentacles?",
-          "So much for the Protectorate.",
-          "And to think there was talk about joining the Protectorate. Good thing that fell through.",
-          "Now where'd I put my tiny violin...",
-          "No, you cannot have a hug. Buzz off.",
-          "We're watching you, scum.",
-          "I'm not sure what's worse: humans trying to kill us, or humans trying to lewd us."
+          "Привет.. О, человек.",
+          "Чем-то плохо пахнет.",
+          "Должно быть, мне показалось. что я почувствовал что-то скверно пахнущее.",
+          "Я понимаю, это была не ваша вина. Но некоторые из моих сородичей могут оказаться не такими понимающими.",
+          "(Шёпотом) Между нами говоря, я думаю, что это были Апексы. Только никому больше не говори, что я рассказал тебе.",
+          "А у тебя железные... если ты сюда пришёл, человек.",
+          "Итак, вы все еще любите бомбить неоперившиеся расы при первом контакте?",
+          "Какая погода на Земле в последнее время, буйная, с вероятностью появления щупалец?",
+          "Слишком много для Протектората.",
+          "И подумать только, ходили разговоры о том, что мы присоединились к протекторату. Хорошо, что это сорвалось.",
+          "Так, а куда же я дел мою крошечную скрипку...",
+          "Нет, ты не можешь обниматься. Отвали.",
+          "Мы наблюдаем за тобой, подонок.",
+          "Я не уверен, что хуже: люди, пытающиеся убить нас, или люди, пытающиеся развратить нас."
+          "Ты хоть понимаешь, каково ощущать то, что тобой манипулируют подобные тебе?"
+          "Ты и твоя раса выглядят не так... обычно, как люди. Это последствия каких-то мутаций?"
         ],
         "hylotl": [
-          "Hello, Hylotl.",
-          "Can I interest you in some tapestries?",
-          "I hear the Hylotl civilisation has some amazing music and culture, want to share some with us?",
-          "If Hylotl cities are aquatic, does that mean you don't have water features in your gardens?",
-          "Is it true Hylotl breed through amplexus?",
-          "No, my feathers are not for trade!"
+          "Привет, Хилотл.",
+          "Могу ли я вас заинтересовать несколькими гобеленами?",
+          "Я слышал, что цивилизация Хилотлов обладает удивительной музыкой и культурой, хотите поделиться чем-нибудь с нами?",
+          "Если города Хилотлов являются водными, означает ли это, что в ваших садах нет водных объектов?",
+          "Правда ли, что хилотлы размножаются через амплексус?",
+          "Нет, мои перья не для торговли!"
+          "Ммм... Как вы готовите еду? И готовите ли её вообще?"
         ],
         "avali": [
-          "Find anything interesting out there?",
-          "Hello, hunter.",
-          "Did you catch that news flash for the local network?",
-          "Hmm? Sorry, I was checking my messages.",
-          "I'm developing a new sim if you want to help me test it.",
-          "Are you in the right tent? ...Am I?",
-          "Got any interesting tales from your travels?",
-          "Kill anything big lately?",
-          "My pack's come up with a new routine, wanna watch later?",
-          "Can I get your opinion on this song I'm writi- wait, where are you going?"
+          "Нашёл что-нибудь интересное?",
+          "Приветствую, охотник.",
+          "Вы замечали эту вспышку новостей в местной сети?",
+          "Хмм? Извините, я проверял свои сообщения.",
+          "Я разрабатываю новую sim-карту, если вы хотите помочь мне, можете её протестировать?",
+          "Вы в нужной палатке? ...Это я?",
+          "Есть какие-нибудь интересные истории из ваших путешествий?",
+          "Убил что-нибудь крупное в последнее время?",
+          "Моя стая задумала новое дело, хочешь посмотреть позже?",
+          "Могу я узнать ваше мнение об этой песне, которую я пиш... - подождите, куда вы уходите?"
+          "Как вы относитесь к людям? Они довольны странные существа."
         ],
         "glitch": [
-          "Hello, Glitch.",
-          "Friendly. Greetings! I've been studying your mode of speech.",
-          "Do you mind if I have a look at your neural architecture?",
-          "If Glitch are able to self reproduce and upgrade, why haven't you undergone singularity yet?",
-          "Have you thought about getting a tune up from the drone techs?",
-          "Is that a tin can used in your construction?"
+          "Привет. Глич",
+          "Дружелюбный. Приветствую! Кхм, я изучал вашу манеру речи.",
+          "Вы не возражаете, если я взгляну на вашу нейронную архитектуру?",
+          "Если Гличи способны к самовоспроизводству и обновлению, почему вы еще не прошли техносингулярность?",
+          "Вы не думали о том, чтобы получить консультацию у специалистов по беспилотным летательным аппаратам?",
+          "Это жестяная банка, используемая в вашей конструкции?"
+          "Что вы делаете с теми, кто ещё не смог осознать себя? Пересобираете, или просто наблюдаете?"
         ],
         "novakid": [
-          "Hello, Novakid.",
-          "Howdy partner!",
-          "Sometimes I wish I could glow in the dark. Most of the time, not.",
-          "Not too close! I'd rather not have my feathers singed.",
-          "So you have no eyes... or ears... or mouth... how does that work? Can you hear me? Hello?",
-          "Can I borrow your glow for just a moment? ... There. Thanks, buckaroo!",
-          "Can you play guitar? I'd love to hear an old cowboy song right about now."
+          "Привет, Новакид.",
+          "Здорово, дружище!",
+          "Иногда мне жаль, что я не могу светиться в темноте. Большую часть времени - нет.",
+          "Не так близко! Я бы предпочел, чтобы мне не подпалили перья.",
+          "Итак, у тебя нет глаз... или ушей... или рта... как это работает? Ты меня слышишь? Привет?",
+          "Могу я позаимствовать твое сияние всего на мгновение? ... Там. Спасибо, бакару!",
+          "Ты умеешь играть на гитаре? Я бы с удовольствием послушал старую ковбойскую песню прямо сейчас."
         ],
         "fenerox": [
           "Hello, Fenerox.",
@@ -631,15 +638,10 @@
       "op": "add",
       "path": "/converse/saturn/avali",
       "value": [
-        "Hello traveler. Uh... Have you been working with ammonia recently?",
-        "Aerogel sounds like a useful material. Do you know of any books that detail how to make it?",
-        "Huh? Are you an Avali? You are much taller than my guide book said you would be.",
-        "You are really fluffy and feathery. Are you warm-blooded as well?",
-        "You're really different from the other species I usually see around here. You must have traveled far.",
         "Hello, Avali.",
         "You have beautiful wings.",
         "I like your plumage.",
-        "Aww, how cute! Squeak!",
+        "Aww, how cute! (squeaking)",
         "Might I borrow a feather? I need it for a spell I'm working on..."
       ]
     },
@@ -647,15 +649,10 @@
       "op": "add",
       "path": "/converse/saturn2/avali",
       "value": [
-        "Hello traveler. Uh... Have you been working with ammonia recently?",
-        "Do you know of any books I could read about the strange plants from your homeworld?",
-        "Huh? Are you an Avali? You are much taller than my guide book said you would be.",
-        "Your species has been known to modify itself quite a bit. Did your species modify other species from your world as well?",
-        "Aeroponics is an interesting approach to gardening.",
         "Hello, Avali.",
         "You have beautiful wings.",
         "I like your plumage.",
-        "Aww, how cute! Squeak!",
+        "Aww, how cute! (squeaking)",
         "Might I borrow a feather? I need it for a spell I'm working on..."
       ]
     }

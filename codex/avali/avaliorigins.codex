@@ -1,14 +1,14 @@
 {
   "id" : "avaliorigins",
   "species" : "avali",
-  "title" : "An Avali Introduction",
-  "description" : "An Avali Introduction.",
+  "title" : "Вид Авали. Введение.",
+  "description" : "Вид Авали. Введение.",
   "icon" : "avalitoken.png",
   "contentPages" : [
 
-    "One of the galaxy's better established races, the Avali are highy social pack hunters, hailing from an ammonia-rich iceball world far beyond their star's goldilocks zone.",
+    "Одна из наиболее устоявшихся рас галактики, авали - крайне общительные стайные охотники, родом с богатого аммиаком ледяного шара, расположенного далеко за пределами обитаемой зоны их звезды.",
 
-    "Greatly advanced, they've begun down the path towards technological singularity. However, beneath a utopian surface events threaten to spiral out of control, as certain factions seek to unleash their full potential."
+    "Значительно продвинувшись вперед, они начали движение по пути к технологической сингулярности. Однако под внешней оболочкой утопии события угрожают выйти из-под контроля, поскольку определенные фракции стремятся полностью раскрыть свой потенциал."
 
   ],
   "itemConfig" : {

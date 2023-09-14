@@ -3,8 +3,8 @@
   "materialName" : "campcanvas",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "campcanvas",
-  "description" : "Avali tent fabric can stop bullets!",
-  "shortdescription" : "Tent Fabric",
+  "description" : "Эта ткань палатки может остановить пули!",
+  "shortdescription" : "Ткань для палатки",
 
 
   "footstepSound" : "/sfx/blocks/footstep_sand.ogg",

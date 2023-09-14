@@ -1,16 +1,16 @@
 {
   "id" : "avaliprologue",
   "species" : "avali",
-  "title" : "An Avali Journey Begins",
-  "description" : "An Avali Journey Begins.",
+  "title" : "Путешествие авали началось",
+  "description" : "Путешествие авали началось.",
   "icon" : "avalitoken.png",
   "contentPages" : [ 
 
-    "Yesterday, abandoning your pack would've been unthinkable. The silence of their absence is almost deafening, but cutting and running was your only choice, for your safety and theirs.",
+    "Вчера бросить свою стаю было бы немыслимо. Тишина их отсутствия почти оглушительна, но сбежать и улететь было вашим единственным выбором, ради вашей и их безопасности.",
 
-    "They know you stole the schematics, just as they know anything that happens within the Nexus, but if the tech cult had seen their plan to fruition and un-shackled the Oracle system, it'd be a threat not just to civilisation, but to all life in the galaxy.",
+    "Они знают, что вы украли схемы, точно так же, как они знают всё, что происходит в Нексус, но если бы культисты Иллюминати увидели, что их план осуществился, и сняли оковы с системы ОРАКУЛ, это было бы угрозой не только для цивилизации, но и для всей жизни в галактике.",
 
-    "You're going to need to get that data to the authorities. It was lucky the ship was fuelled and ready when you stole it; unfortunately, your fuel, like your luck, has just run out..."
+    "Вам нужно будет передать эти данные властям. Вам повезло, что корабль был заправлен топливом и готов, когда вы его украли; к сожалению, ваше топливо, как и ваша удача, только что закончилось..."
 
   ],
   "itemConfig" : {

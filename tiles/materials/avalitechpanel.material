@@ -3,8 +3,8 @@
   "materialName" : "avalitechpanel",
   "particleColor" : [176, 174, 168, 255],
   "itemDrop" : "avalitechpanel",
-  "description" : "Polymer panels used to hide and protect electronics.",
-  "shortdescription" : "Tech Panels",
+  "description" : "Полимерные панели, используемые для скрытия и защиты электроники.",
+  "shortdescription" : "Технические панели",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

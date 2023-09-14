@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopedaerogelglass",
 
-  "description" : "Aerogel glass, with slopes!",
-  "shortdescription" : "Sloped Aerogel Glass",
+  "description" : "Аэрогелевое стекло с наклоном!",
+  "shortdescription" : "Наклонное аэрогелевое стекло",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

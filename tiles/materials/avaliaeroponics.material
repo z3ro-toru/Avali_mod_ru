@@ -3,8 +3,8 @@
   "materialName" : "avaliaeroponics",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avaliaeroponics",
-  "description" : "These tubes transport a nutrient aerosol for growing plants indoors.",
-  "shortdescription" : "Aeroponics Tubing",
+  "description" : "Эти трубки транспортируют питательный аэрозоль для выращивания растений в помещении.",
+  "shortdescription" : "Трубка для аэропоники",
 
   
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

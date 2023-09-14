@@ -4,8 +4,8 @@
   "particleColor" : [11, 98, 90, 255],
   "itemDrop" : "avalislopedhullplate",
 
-  "description" : "Plain panels, because less is more! But sloped, cause MORE is more!",
-  "shortdescription" : "Sloped Plain Panel",
+  "description" : "Простые панели, потому что чем меньше, тем больше! Но наклонные, потому что БОЛЬШЕ есть больше!",
+  "shortdescription" : "Наклонная гладкая панель",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 16,
   "category" : "materials",

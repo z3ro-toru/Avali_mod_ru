@@ -3,8 +3,8 @@
   "materialName" : "camptapestry1",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "camptapestry1",  
-  "description" : "A soft, decorative tapestry",
-  "shortdescription" : "Avali Tapestry",
+  "description" : "Мягкий декоративный гобелен.",
+  "shortdescription" : "Авалонский гобелен",
 
 
   "footstepSound" : "/sfx/blocks/footstep_sand.ogg",

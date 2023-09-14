@@ -4,9 +4,9 @@
     "path" : "/beacon/avali",
     "value" : {  
       "default" : [  
-        "May I help you?",
-        "What is it?",
-        "Yeeeesss?"
+        "Могу ли я помочь вам?",
+        "Что это?",
+        "Да-а-а-а?"
       ]
     }
   },
@@ -15,8 +15,8 @@
     "path" : "/rent/avali",
     "value" : {  
       "default" : [  
-        "This should cover it.",
-        "Happy to be a productive member of society."
+        "Это должно укрыть это.",
+        "Счастлив быть продуктивным членом общества."
       ]
     }
   }

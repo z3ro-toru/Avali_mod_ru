@@ -3,8 +3,8 @@
   "materialName" : "avalihexagons1",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avalihexagons1",
-  "description" : "It's like a Glitch beehive!",
-  "shortdescription" : "Dark Metal Hexagons",
+  "description" : "Это как улей с Гличами!",
+  "shortdescription" : "Шетиугольники из тёмного металла",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

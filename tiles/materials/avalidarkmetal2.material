@@ -3,8 +3,8 @@
   "materialName" : "avalidarkmetal2",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avalidarkmetal2",
-  "description" : "Metal, darkly.",
-  "shortdescription" : "Dark Metal Panels",
+  "description" : "Металлические, тёмные.",
+  "shortdescription" : "Панели из темного металла",
 
   
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

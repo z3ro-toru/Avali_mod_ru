@@ -3,8 +3,8 @@
   "materialName" : "camptapestry2",
   "particleColor" : [176, 174, 168, 255],
   "itemDrop" : "camptapestry2",
-  "description" : "A soft, decorative trim material.",
-  "shortdescription" : "Avali Trim",
+  "description" : "Мягкий декоративный отделочный материал.",
+  "shortdescription" : "Отделка авали",
 
 
   "footstepSound" : "/sfx/blocks/footstep_sand.ogg",

@@ -3,8 +3,8 @@
   "materialName" : "avalidarkmetal",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avalidarkmetal",
-  "description" : "Metal, darkly.",
-  "shortdescription" : "Dark Metal Support",
+  "description" : "Металл, тёмный.",
+  "shortdescription" : "Подставка из тёмного металла",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

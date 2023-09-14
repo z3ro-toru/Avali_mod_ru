@@ -3,8 +3,8 @@
   "materialName" : "avaliglass",
   "particleColor" : [255, 255, 128, 255],
   "itemDrop" : "avaliglass",
-  "description" : "This used to be aerogel. Now it's glass. Magic? No, SCIENCE.",
-  "shortdescription" : "Aerogel Glass",
+  "description" : "Раньше это был аэрогель. Теперь это стекло. Магия? Нет, НАУКА.",
+  "shortdescription" : "Аэрогелевое стекло",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

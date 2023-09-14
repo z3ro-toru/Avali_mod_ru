@@ -3,8 +3,8 @@
   "materialName" : "avalichits",
   "particleColor" : [110, 110, 110, 255],
   "itemDrop" : "avalichits",
-  "description" : "Holo-archives, data chits and other removable data storage.",
-  "shortdescription" : "Data Storage",
+  "description" : "Голоархивы, блоки данных и другие съемные хранилища данных.",
+  "shortdescription" : "Хранилище данных",
 
 
   "footstepSound" : "/sfx/blocks/footstep_composite.ogg",

@@ -4,9 +4,10 @@
     "path" : "/attack/avali",
     "value" : {  
       "default" : [  
-        "Run, coward!",
-        "Take no prisoners!",
-        "Move move move!"
+        "Беги, трус!",
+        "В плен не брать!",
+        "Живей, живей, живей!"
+        "Бей!"
       ]
     }
   },
@@ -15,8 +16,9 @@
     "path" : "/killedTarget/avali",
     "value" : {  
       "default" : [  
-        "Target neutralized.",
-        "Shoot first, ask questions later..."
+        "Цель устранена.",
+        "Сначала стреляй, потом задавай вопросы..."
+        "Убит."
       ]
     }
   },
@@ -25,7 +27,8 @@
     "path" : "/lostTarget/avali",
     "value" : {  
       "default" : [  
-        "Lost the target. Such a shame."
+        "Цель потеряна. Позор..."
+        "Потерял цель."
       ]
     }
   }

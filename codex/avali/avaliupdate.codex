@@ -1,26 +1,26 @@
 {
   "id" : "avaliupdate",
   "species" : "avali",
-  "title" : "The Avali Update Catastrophe",
-  "description" : "Information On The Avali Update Catastrophe.",
+  "title" : "Катастрофа подкрепления Авали",
+  "description" : "Информация о катастрофе подкрепления Авали.",
   "icon" : "avalitoken.png",
   "contentPages" : [
 
-    "Excerpt from personal log of Nezi, one of the workers in charge of unloading updates.",
+    "Выдержка из личного журнала Нези, одного из работников, отвечающих за отвод подкреплений.",
 
-    "They said the update would be arriving soon. We watched the landing zone for hours, but nothing showed up. After a few hours, we began to worry. Did the update lose its way? Was there an accident? We had no way of knowing. All we could do was watch, wait, and pray that it would come soon. Then, on the morning of the fourth day after it should have arrived, it appeared on the horizon.",
+    "Они сказали, что подкрепление скоро поступит. Мы наблюдали за зоной посадки в течение нескольких часов, но никто не прилетел. Через несколько часов мы начали беспокоиться. Сбилось ли корабли с пути? Произошел ли несчастный случай? У нас не было возможности узнать. Все, что мы могли делать, это наблюдать, ждать и молиться, чтобы это произошло поскорее. Только ранним утром, через четыре дня ожидания, корабль знакомой формы появился на горизонте.",
 
-    "Then another appeared. And another. They kept coming into view, one after another, until they darkened the sky. There were so many of them. As they approached, they began to collide with one another, fighting for who would reach the landing zone first. The struggle in the skies was violent, with update crashing into update, their mutual destruction assured.",
+    "Затем появился еще один. И еще один. Они продолжали появляться в поле зрения, один за другим, пока не затмили небо. Их было так много... По мере приближения они начали сталкиваться друг с другом, сражаясь за то, кто первым достигнет зоны посадки. Борьба в небесах была жестокой, они врезались друг в друга, их взаимное уничтожение было гарантировано. Это было похоже на... внезапное безумие.",
 
-    "Many were injured in the rain of twisted metal and flaming wreckage. Those among us who sought shelter quickly got away relatively unscathed. Others had been injured, with wounds ranging from light scratches to broken limbs.",
+    "Нас накрыло дождем искореженного металла и пылающих обломков. Те из нас, кто искал убежища, быстро ушли относительно невредимыми. Другим досталось больше, раны варьировались от легких царапин до переломов конечностей.",
 
-    "The bound humans, who we were keeping next to the landing zone in a crudely-constructed cardboard shelter, as we had no idea what to do with them, well... their fate is, for the moment, unknown. I thought I saw someone running towards the box, but I never saw what happened. The wreckage started crashing down, fiery and thick in that moment.",
+    "Что до вязанных людей, которых мы держали рядом с зоной высадки в грубо сколоченном практически картонном по толщине укрытии, поскольку мы понятия не имели, что с ними делать, что ж... их судьба на данный момент неизвестна. Мне показалось, что я видел, как кто-то бежал к ящику, но я так и не увидел, что произошло. В этот момент обломки начали падать вниз сплошной стеной огня.",
 
-    "After that, I hid in the nearest tent with my pack and so many others, the nanocanvas structure protecting us all as the able-bodied among us went about tending to the wounded. After what felt like ages,  when the cacophony stopped, we peeked outside. The ground had been baptized in burning wreckage, and the landing zone was all but buried.",
+    "После этого я и многие другие, прихватив рюкзаки и кое-какие вещи, спрятались в ближайшей палатке. Под защитой нанополотна мы перевязали и даже поставили на ноги нескольких раненых. Казалось, прошла целая вечность... Когда какофония прекратилась, мы выглянули наружу. Земля была покрыта горящими обломками, а посадочная зона была практически погребена под землей.",
 
-    "The cardboard shelter containing the humans was nowhere to be seen. A lone, surviving update had weathered the storm, and was sitting perched atop a mountain of its fallen brethren. We stepped out of our hiding places, slowly picking our way across the fields of smouldering steel, to see what the update had brought for us this time.",
+    "Убежища, в котором находились люди, нигде не было видно. Одинокий, выживший дрон выдержал шторм и теперь приземлмлся на вершине горы из своих павших собратьев. Мы вышли из наших укрытий, медленно пробираясь по полю тлеющей стали, чтобы посмотреть, что принесло нам подкрепление на этот раз.",
     
-    "It was, disappointingly, not a lot. A few chips to install in our nanolooms, enabling them to make normal cloth and a few bits of clothing that didn't fit very well, and some rifles that, if anything, seemed worse than the ones we already had. It was hardly worth all the work it would take to clean this mess up."
+    "К сожалению, в нём было практически ничего. Несколько чипов для установки в наших нанолабораториях, позволяющих изготавливать обычную ткань и несколько предметов одежды, которые были такими себе, и несколько винтовок, которые, если уж на то пошло, казались хуже тех, что у нас уже были. Вряд ли это всё стоило той работы, которая потребовалась бы, чтобы навести порядок в этом месте."
 
   ],
   "itemConfig" : {

@@ -1,11 +1,11 @@
 {
   "author" : "Fevix",
-  "description" : "Avali race mod for Starbound 1.4\nThe cutest predators this side of the universe rift \nWe now have a Discord chat, come on in! No account needed! https://discord.gg/uppXW2k \n[h1][b]If you have issues, please go to https://github.com/Fevix/Avali/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[i]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE.[/i][/b][/h1]\n\n(Requires a character extender to be able to select as a race. You can ignore this line if you dont plan on playing as an Avali. The mod states it requires XBawks, but it does not. Any race extender will allow you to play as an avali.)\n\nOriginal mod made by RyuujinnZERO on Starbound Forums: http://community.playstarbound.com/resources/avali-race-mod.998/ \nUpdated, maintained, and redistributed with permission.",
-  "friendlyName" : "Avali (Triage) Race Mod",
+  "description" : "Avali race mod for Starbound 1.10 (перевод и дополнения by zero_toru. Примечание: автор перевода обитает на данном сервере, и ему будет приятно, если вы зайдёте на него: https://discord.gg/qaQhyhyYMq . Спасибо, и приятной игры!)\nСамые симпатичные хищники по эту сторону разлома вселенной \nТеперь у нас есть чат в Discord, заходите! Учетная запись не требуется! https://discord.gg/uppXW2k \n[h1][b] Если у вас возникли проблемы, пожалуйста, перейдите на https://github.com/Fevix/Avali/issues и опубликуйте новый выпуск с описанием проблемы. Включите файл starbound.log журнала (расположен по адресу \"/steamapps/common/Starbound/storage/starbound.log\"). \n[i]Я НЕ МОГУ УСТРАНИТЬ ВАШУ ПРОБЛЕМУ БЕЗ ЭТОГО ФАЙЛА.[/i][/b][/h1]\n\n(Требуется расширитель рас для возможности выбора в качестве расы. Вы можете проигнорировать эту строку, если не планируете играть за Авали. В моде указано, что для этого требуется XBawks, но это не так. Любой расширитель расы позволит вам играть за авали.)\n\nОригинальный мод, созданный Ryuujinzero на форумах Starbound: http://community.playstarbound.com/resources/avali-race-mod.998 / \nОбновляется, поддерживается и распространяется с разрешения.",
+  "friendlyName" : "Avali (Triage) Race Mod (ru by zero_toru)",
   "includes" : ["ztarbound"],
   "link" : "steam://url/CommunityFilePage/729558042",
   "name" : "Avali",
   "steamContentId" : "729558042",
   "tags" : "NPCs and Creatures|Weapons|Ships|Species|Furniture and Objects|Food and Farming|In-Game Tools|Vehicles and Mounts|Armor and Clothes",
-  "version" : "1.11.1"
+  "version" : "1.9"
 }
