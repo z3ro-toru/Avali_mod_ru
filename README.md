@@ -8,32 +8,31 @@
 # Как установить
 Скачайте и извлеките по пути Starbound/mods. Структура будет выглядеть примерно так: 
 
-├︎ mods
-  ├︎ avali 
-    ├︎ avali.modinfo 
-    ├︎ различные папки и файлы
+├︎ mods  
+  ├︎ avali  
+    ├︎ avali.modinfo  
+    ├︎ различные папки и файлы  
 
-# Не забывайте удалять старую версию перед установкой новой, это может крашнуть вашу игру!
+## Не забывайте удалять старую версию перед установкой новой, это может крашнуть вашу игру!
 
 # Предложение фич
-If you have the know-how to code everything yourself, feel free to make a Fork, make your changes, then make a Pull Request. Chances are I'll take a glance over what you added then just plop it in.
-Please test your additions before you make the pull request.
+Если у вас есть ноу-хау, чтобы написать все самостоятельно, смело создавайте форк, вносите свои изменения, а затем делайте Pull Request. Скорее всего, я посмотрю на то, что вы добавили, и просто добавлю это. Пожалуйста, протестируйте свои дополнения, прежде чем отправлять запрос на исправление.
 
-# How to make a feature yourself and make the pull request
-1: Download, install, and log into the Github Desktop client
+# Как сделать функцию самостоятельно и подать запрос на исправление
+1: Скачайте, установите и войдите в клиент Github Desktop
 
-2: Click "Clone to Desktop" on this page
+2: Нажмите "Клонировать на рабочий стол" на этой странице.
 
-3: The desktop client will start up, and ask where you want to clone the repository to. The default location is fine.
+3: Запустится клиент для рабочего стола и спросит, куда вы хотите клонировать репозиторий. Расположение по умолчанию подходит.
 
-4: After a few minutes, you will have your own copy of the mod to work on. Make whatever changes or additions you desire, then go back into the desktop client and the changed files should be in a list near the left. 
+4: Через несколько минут у вас будет собственная копия мода для работы. Внесите все изменения и дополнения, которые пожелаете, затем вернитесь в настольный клиент, и измененные файлы должны появиться в списке слева.
 
-5: Fill in a title and a summary for the commit, then click "Commit to master" at the bottom.
+5: Введите название и краткое содержание фиксации, а затем нажмите кнопку "Commit to master" внизу.
 
-6: Return to this page and click the green button near the top that looks like two arrows pointing at the ends of each other.
+6: Вернитесь на эту страницу и нажмите зелёную кнопку вверху, которая выглядит как две стрелки, направленные друг на друга.
 
-7: "Base fork" should be this repository (Fevix/Avali), and the Branch should be Master. Head fork should be your own fork (Yourname/Avali), and under most circumstances the "compare" field should be 'Master' as well (Unless you made a branch of your own and would like to submit the pull request from that branch, in which case select the name of that branch from the dropdown menu.)
+7: "Базовым форком" должен быть этот репозиторий (Fevix/Avali), а веткой - Master. Головным форком должен быть ваш собственный форк (Yourname/Avali), и в большинстве случаев в поле "compare" также должно стоять 'Master' (если только вы не создали собственную ветку и не хотите отправить pull request из этой ветки, в этом случае выберите название этой ветки из выпадающего меню).
 
-8: Ensure that there is a green area that reads something along the lines of "Can be merged automatically". If it does, go ahead and make the pull request. (If not, it just means I was too active between when you forked and when you attempted the pull request. Just refork the mod, remake your changes, and try again.).
+8: Убедитесь, что в зеленой области появилась надпись "Can be merged automatically". Если это так, отправьте запрос на слияние. (Если нет, это означает, что я был слишком активен в период между созданием форка и подачей запроса. Просто перефорсите мод, переделайте свои изменения и попробуйте снова).
 
-9: Done! Sounds somewhat complicated, but it's not really once you get the hang of things!
+9: Готово! Звучит сложновато, но на самом деле это не так, если разобраться!
